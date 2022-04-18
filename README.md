@@ -2,7 +2,6 @@
 
 This repo is focused on documenting my solutions to LeetCode's problems in Python.
 
-
 ## Acknowledgements
 
  - [LeetCode.com](https://leetcode.com/)
